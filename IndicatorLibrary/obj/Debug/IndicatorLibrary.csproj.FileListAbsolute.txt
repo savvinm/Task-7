@@ -1,0 +1,14 @@
+C:\Users\Максим\source\repos\PLaS\Task 7\IndicatorLibrary\obj\Debug\IndicatorLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Максим\source\repos\PLaS\Task 7\IndicatorLibrary\obj\Debug\IndicatorLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Максим\source\repos\PLaS\Task 7\IndicatorLibrary\bin\Debug\IndicatorLibrary.dll
+C:\Users\Максим\source\repos\PLaS\Task 7\IndicatorLibrary\bin\Debug\IndicatorLibrary.pdb
+C:\Users\Максим\source\repos\PLaS\Task 7\IndicatorLibrary\bin\Debug\LoadLibrary.dll
+C:\Users\Максим\source\repos\PLaS\Task 7\IndicatorLibrary\bin\Debug\EPPlus.dll
+C:\Users\Максим\source\repos\PLaS\Task 7\IndicatorLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Максим\source\repos\PLaS\Task 7\IndicatorLibrary\bin\Debug\LoadLibrary.pdb
+C:\Users\Максим\source\repos\PLaS\Task 7\IndicatorLibrary\bin\Debug\EPPlus.xml
+C:\Users\Максим\source\repos\PLaS\Task 7\IndicatorLibrary\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Максим\source\repos\PLaS\Task 7\IndicatorLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Максим\source\repos\PLaS\Task 7\IndicatorLibrary\obj\Debug\IndicatorLibrary.csproj.CopyComplete
+C:\Users\Максим\source\repos\PLaS\Task 7\IndicatorLibrary\obj\Debug\IndicatorLibrary.dll
+C:\Users\Максим\source\repos\PLaS\Task 7\IndicatorLibrary\obj\Debug\IndicatorLibrary.pdb
