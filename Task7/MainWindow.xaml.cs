@@ -72,14 +72,6 @@ namespace Task7
 
             }
         }
-        private void AddNewPoint(Candle candle, decimal value)
-        {
-            using (dataSeries.SuspendUpdates())
-            {
-                dataSeries.Append(candle.Time, (double)value);
-                indicatorChar.XAxis.VisibleRange = new IndexRange(candleCount - 50, candleCount);
-            }
-        }
         private void ReloadChartSeries()
         {
             ohlcSeries = new OhlcDataSeries<DateTime, double>() { SeriesName = "Candles", FifoCapacity = 10000 };

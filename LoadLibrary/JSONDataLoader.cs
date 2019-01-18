@@ -39,7 +39,6 @@ namespace LoadLibrary
                     Close = close[i],
                     Time = DateTimeOffset.FromUnixTimeSeconds(timestamp[i]).UtcDateTime,
                     TimeStamp = timestamp[i],
-                    Volume = 0
                 };
 
                 candles.Enqueue(candle);
